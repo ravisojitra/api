@@ -1,4 +1,5 @@
-[
+{
+    users:[
     {
       "name": "Ravi Sojitra",
       "email": "ravisojitra@gmail.com",
@@ -7,3 +8,4 @@
       "isActive":true
     }
   ]
+}
