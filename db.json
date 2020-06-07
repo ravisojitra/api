@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "Ravi Sojitra",
+      "email": "ravisojitra@gmail.com",
+      "mobile": "9999999999",
+      "birthDate": "28/12/1994",
+      "isActive":true
+    }
+  ]
+}
